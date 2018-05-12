@@ -1,0 +1,30 @@
+_repo: Diary-of-Battery-A-First-Regiment-Rhode-Island-Light-Artillery_32111
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reichardt, Theodore
+    gutenberg_agent_id: '35666'
+    url: http://www.gutenberg.org/2009/agents/35666
+description: '"Written in the field.".'
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32111'
+  lccn: 05021867
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Rhode Island Light Artillery Regiment, 1st (1861-1865).
+  Battery A'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Rhode Island -- History -- Civil War, 1861-1865 -- Regimental histories'
+- !lcsh 'Reichardt, Theodore -- Diaries'
+- !lcc 'E456'
+title: Diary of Battery A, First Regiment Rhode Island Light Artillery
+url: http://www.gutenberg.org/ebooks/32111
